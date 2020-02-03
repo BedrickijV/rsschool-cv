@@ -4,4 +4,4 @@
 4. Skills: Git, HTML, CSS, JS basics.
 5. I listened to the Basic Computer Science course and successfully completed the course website development with HTML, CSS & JavaScript in IT-Academy, i also learn JS on codeacademy and do tasks on codewars.
 6. I graduated International university “MITSO”, FFaculty of Law, and successfully completed the course website development with HTML, CSS & JavaScript in IT-Academy.
-7. English level is B1.
+7. English level is B1 (Intermediate).
